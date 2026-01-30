@@ -15,3 +15,4 @@ A fully functional Tic Tac Toe web game built using HTML, CSS, and JavaScript.
 
 ## Purpose
 This project was built to practice JavaScript logic, DOM manipulation, and event handling.
+
