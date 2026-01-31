@@ -1,5 +1,8 @@
 # Tic Tac Toe Game
 
+## Preview
+![Game Preview](screenshot(2).png)
+
 A fully functional Tic Tac Toe web game built using HTML, CSS, and JavaScript.
 
 ## Features
