@@ -8,6 +8,9 @@ A fully functional Tic Tac Toe web game built using HTML, CSS, and JavaScript.
 - Win, lose, and draw detection
 - Restart game functionality
 
+## Live Demo
+- https://sushant4k.github.io/tic-tac-toe-js/
+
 ## Technologies Used
 - HTML
 - CSS
